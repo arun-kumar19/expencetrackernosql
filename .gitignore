@@ -1,0 +1,5 @@
+# Ignore node_modules folder
+node_modules
+echo ".env" >> .gitignore
+# Ignore files related to API keys
+.env
